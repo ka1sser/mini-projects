@@ -1,3 +1,4 @@
+# Topic: Lists, sets, and tuples
 # Shopping cart program
 
 foods = []
@@ -18,7 +19,7 @@ print("--------- CART ----------")
 
 for food in foods:
     print(food)
-    
+
 for price in prices:
     total += price
 

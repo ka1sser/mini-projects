@@ -1,3 +1,4 @@
+# Topic: String methods
 # Validate user input exercise
 # 1. username is no more than 12 characters
 # 2. username mus not contain spaces
