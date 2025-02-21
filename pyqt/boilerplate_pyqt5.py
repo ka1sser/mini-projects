@@ -7,9 +7,6 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-    def main():
-        pass
-
 
 def main():
     app = QApplication(sys.argv)
